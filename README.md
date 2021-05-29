@@ -17,6 +17,10 @@ Data Source : [Link](https://file.biolab.si/biolab/supp/bi-cancer/projections/in
 
 ## Model & Training details
 
+### Pipelines
+
+The cross-validation pipeline needed extra care while designing to avoid any data leakage or other forms of overfitting which could be caused by performing scaling, oversampling & feature selection in the wrong order.
+
 <img src="./misc/val_train_predict_pipelines.png" height = 500 />
 
 ### Data Augmentation
