@@ -16,13 +16,12 @@ Data Source : [Link](https://file.biolab.si/biolab/supp/bi-cancer/projections/in
 **Note : Text.**
 
 ## Model & Training details
-Text goes here.
+
+<img src="./misc/val_train_predict_pipelines.png" height = 500 />
 
 ### Data Augmentation
 Text goes here.
 
-### Training details
-Text goes here.
 
 ## Evaluation & test performance
 Text goes here.
