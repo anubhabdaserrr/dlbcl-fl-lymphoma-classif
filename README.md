@@ -23,6 +23,8 @@ The cross-validation pipeline needed extra care while designing to avoid any dat
 
 <img src="./misc/val_train_predict_pipelines.png" height = 500 />
 
+**Note : The sources which prvodided with the information about the relative ordering, in which the steps, in the above pipelines are to be carried out are yet to be cited.**
+
 ### Data Augmentation
 Text goes here.
 
