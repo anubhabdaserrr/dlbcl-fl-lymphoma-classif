@@ -4,8 +4,8 @@
 
 Date : 27th May, 2021
 
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/anubhabdaserrr/dlbcl-fl-lymphoma-classif/blob/main/DLBCL-FL-classif-nb.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anubhabdaserrr/dlbcl-fl-lymphoma-classif/blob/main/DLBCL-FL-classif-nb.ipynb)
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/anubhabdaserrr/dlbcl-fl-lymphoma-classif/blob/main/DLBCL_FL_classif_nb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anubhabdaserrr/dlbcl-fl-lymphoma-classif/blob/main/DLBCL_FL_classif_nb.ipynb)
 
 ## Objective & data
 
