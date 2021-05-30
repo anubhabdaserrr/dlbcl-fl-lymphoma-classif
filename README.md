@@ -30,6 +30,9 @@ Text goes here.
 ## Evaluation & test performance
 Text goes here.
 
+### Finding optimal values of SMOTE minority fraction & no. of features in feature selection
+<img src = './misc/optimize_features.png' width=400  /> <img src = './misc/optimize_smote.png' width=400  />
+
 ### Cross Validation
 Text goes here
 
