@@ -31,7 +31,13 @@ Text goes here.
 Text goes here.
 
 ### Finding optimal values of SMOTE minority fraction & no. of features in feature selection
-<img src = './misc/optimize_features.png' width=400  /> <img src = './misc/optimize_smote.png' width=400  />
+<img src = './misc/optimize_features.png' width=500  /> <img src = './misc/optimize_smote.png' width=500  />
+
+### Distribution of accuracy scores across various trials of cross-validation
+<img src = './misc/acc_20_trails_distrib.png' width=400  /> <img src = './misc/acc_200_trails_distrib.png' width=400  />
+
+### Feature importance scores 
+<img src = './misc/ftrs_scores_50.png' /> <img src = './misc/ftrs_scores_grps_500.png' />
 
 ### Cross Validation
 Text goes here
